@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## About me! (: 
 
 ### Who I am 
@@ -17,3 +18,6 @@
 - I am seeking for an employment in the Energy sector, related to renewable energies and smart grids 
 - My future look will look as a project engineer, coding and also leading some teams on energy-related projects. 
 - My career goal is to be able to be a project engineer cooridnating and executing projected base on data analytics but also related to the energy sector. 
+=======
+## About me!! (: 
+>>>>>>> 19fd482fc703cd23a319b6d440559607a5eeab5c
